@@ -1,5 +1,6 @@
 # Hi there 👋
-<img width="512" height="512" alt="Gemini_Generated_Image_u6gcvu6gcvu6gcvu" src="https://github.com/user-attachments/assets/46b885de-fd3c-40e2-b57e-a544d5944f5c" />
+<img width="891" height="426" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/13744bd6-d82e-40ef-8d1a-d0f4da9283d5" />
+
 
 ### **I'm currently working on getting my degree in Cyber Security.**
 
