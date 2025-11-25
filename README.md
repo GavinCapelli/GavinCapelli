@@ -1,4 +1,5 @@
 # Hi there 👋
+<img width="512" height="512" alt="Gemini_Generated_Image_u6gcvu6gcvu6gcvu" src="https://github.com/user-attachments/assets/46b885de-fd3c-40e2-b57e-a544d5944f5c" />
 
 ### I'm currently working on getting my degree in Cyber Security.
 
