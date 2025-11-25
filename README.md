@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently working on getting my degree in Cyber Security.
+I'm currently learning Python and Cryptography
+I would love some tips for anything related to my fields!
+
+Fun fact: I race dirt bikes!
 <!--
 **GavinCapelli/GavinCapelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
